@@ -8,4 +8,4 @@ public/
 package-lock.json
 .vscode/*
 __pycache__
-django
+django/
