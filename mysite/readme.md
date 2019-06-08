@@ -1,0 +1,1 @@
+# Django tutorial that creates a poll
